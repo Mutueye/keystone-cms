@@ -1,0 +1,16 @@
+{
+  "name": "keystone-cms",
+  "version": "1.0.0",
+  "description": "keystone cms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "DuPeng",
+  "license": "ISC",
+  "dependencies": {
+    "keystone": "^4.0.0-rc.1",
+    "underscore": "^1.9.1"
+  }
+}

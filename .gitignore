@@ -1,0 +1,11 @@
+# OSX
+.DS_Store
+
+# Thumbnails
+._*
+
+# node.js
+#
+node_modules/
+logs
+*.log
